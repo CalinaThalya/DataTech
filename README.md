@@ -24,3 +24,16 @@
 Para executar a aplicação, siga os passos abaixo:
 
 1. Clone este repositório:
+
+2. Instale as dependências: npm install
+
+3. Inicie a aplicação: npm start
+
+## Imagem dos Diagramas
+
+
+## Vídeo de Apresentação
+
+Assista ao vídeo de apresentação da proposta tecnológica, público-alvo e problemas que a aplicação se propõe a solucionar [aqui](https://www.youtube.com/watch?v=TsUd9z82e2E).
+
+
