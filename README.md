@@ -3,20 +3,20 @@
 ## Integrantes do Grupo:
 
 - **Nome Completo:** Ana Paula
-  - **Responsabilidade no Projeto:** [Atividade ou Área de Responsabilidade]
+  - **Responsabilidade no Projeto:** [ Responsabilidade]
 
 - **Nome Completo:** Calina Thalya
-  - **Responsabilidade no Projeto:** [Atividade ou Área de Responsabilidade]
+  - **Responsabilidade no Projeto:** [Responsabilidade]
  
     - **Nome Completo:** Geovanna
-  - **Responsabilidade no Projeto:** [Atividade ou Área de Responsabilidade]
+  - **Responsabilidade no Projeto:** [Responsabilidade]
 
 
 - **Nome Completo:** Leonardo
-  - **Responsabilidade no Projeto:** [Atividade ou Área de Responsabilidade]
+  - **Responsabilidade no Projeto:** [ Responsabilidade]
  
 - **Nome Completo:** Nathan
-  - **Responsabilidade no Projeto:** [Atividade ou Área de Responsabilidade]
+  - **Responsabilidade no Projeto:** [ Responsabilidade]
 
 
 ## Instruções de Execução
