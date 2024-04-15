@@ -23,7 +23,7 @@
 
 Para executar a aplicação, siga os passos abaixo:
 
-1. Clone este repositório:
+1. Clone este repositório: git clone https://github.com/CalinaThalya/DataTech.git
 
 2. Instale as dependências: npm install
 
