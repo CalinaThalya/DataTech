@@ -32,6 +32,9 @@ Para executar a aplicação, siga os passos abaixo:
 ## Imagem dos Diagramas
 
 
+![imagem](https://github.com/CalinaThalya/DataTech/assets/116985483/a5448922-a54b-4ea4-98ae-fecf096e4e15)
+
+
 ## Vídeo de Apresentação
 
 Assista ao vídeo de apresentação da proposta tecnológica, público-alvo e problemas que a aplicação se propõe a solucionar [aqui](https://www.youtube.com/watch?v=TsUd9z82e2E).
