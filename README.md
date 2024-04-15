@@ -2,20 +2,20 @@
 
 ## Integrantes do Grupo:
 
-- **Nome Completo:** Ana Paula
+- **Nome Completo:** Ana Paula Nascimento Silva- rm552513
   - **Responsabilidade no Projeto:** [ Responsabilidade]
 
-- **Nome Completo:** Calina Thalya
+- **Nome Completo:**Calina Thalya Santana da Silva- rm552523
   - **Responsabilidade no Projeto:** [Responsabilidade]
  
-    - **Nome Completo:** Geovanna
+    - **Nome Completo:** Geovana Ribeiro Domingos Silva- rm99646
   - **Responsabilidade no Projeto:** [Responsabilidade]
 
 
-- **Nome Completo:** Leonardo
+- **Nome Completo:** Leonardo Camargo Lucena- rm552537
   - **Responsabilidade no Projeto:** [ Responsabilidade]
  
-- **Nome Completo:** Nathan
+- **Nome Completo:** Nathan Nunes Calsonari- rm552539
   - **Responsabilidade no Projeto:** [ Responsabilidade]
 
 
