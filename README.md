@@ -1,4 +1,4 @@
-[endpoints.json](https://github.com/CalinaThalya/DataTech/files/14985041/endpoints.json)# DataTech
+## DataTech
 
 ## Integrantes do Grupo:
 
