@@ -5,7 +5,7 @@
 - **Nome Completo:** Ana Paula Nascimento Silva- rm552513
   - **Responsabilidade no Projeto:** empresaControler.java , cronograma;
 
-- **Nome Completo:**Calina Thalya Santana da Silva- rm552523
+- **Nome Completo:** Calina Thalya Santana da Silva- rm552523
   - **Responsabilidade no Projeto:** homeControler.java , documentação/organização no github
  
     - **Nome Completo:** Geovana Ribeiro Domingos Silva- rm99646
