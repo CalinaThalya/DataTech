@@ -58,9 +58,9 @@ Assista ao vídeo de apresentação da proposta tecnológica, público-alvo e pr
       "nomeFantasia": "FIAP",
       "cnpj": "12.231.444/0005-22"
 
-    }
+    },
 
-  },
+  
 
   "PUT": {
     "Empresa1": {
@@ -79,9 +79,9 @@ Assista ao vídeo de apresentação da proposta tecnológica, público-alvo e pr
 
     }
 
-  }
+  
 
-}
+
 
 {
 
@@ -94,7 +94,7 @@ Assista ao vídeo de apresentação da proposta tecnológica, público-alvo e pr
 
     }
 
-  }
+  
 
 }
 ing endpoints.json…]()
