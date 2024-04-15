@@ -1,4 +1,4 @@
-# DataTech
+[endpoints.json](https://github.com/CalinaThalya/DataTech/files/14985041/endpoints.json)# DataTech
 
 ## Integrantes do Grupo:
 
@@ -39,5 +39,66 @@ Em seguida, precisa selecionar qual método vai querer, GET, SET, PUT, DELETE
 ## Vídeo de Apresentação
 
 Assista ao vídeo de apresentação da proposta tecnológica, público-alvo e problemas que a aplicação se propõe a solucionar [aqui](https://www.youtube.com/watch?v=TsUd9z82e2E).
+
+## Arquivo dos endpoints
+
+[Upload
+{
+  "POST": {
+    "Empresa1": {
+      "id": 6,
+      "nome": "Faculdade de Tecnologia",
+      "nomeFantasia": "FIAP",
+      "cnpj": "12.231.444/0005-22"
+    },
+
+    "Empresa2": {
+      "id": 6,
+      "nome": "Faculdade de tecnologia",
+      "nomeFantasia": "FIAP",
+      "cnpj": "12.231.444/0005-22"
+
+    }
+
+  },
+
+  "PUT": {
+    "Empresa1": {
+      "id": 6,
+      "nome": "Faculdade de Tecnologia",
+      "nomeFantasia": "FIAP",
+      "cnpj": "12.231.444/0005-22"
+
+    }
+
+  },
+
+  "DELETE": {
+    "Empresa1": {
+      "id": 1
+
+    }
+
+  }
+
+}
+
+{
+
+  "POST": {
+    "empresa_1": {
+      "id": "ID_TECH.NEXTVAL",
+      "nome": "FAST SHOP SA",
+      "nomeFantasia": "FAST SHOP",
+      "cnpj": "43.708.379/0001-00"
+
+    }
+
+  }
+
+}
+ing endpoints.json…]()
+
+
 
 
