@@ -27,7 +27,7 @@ Para executar a aplicação, siga os passos abaixo:
 
 2. Instale as dependências: npm install
 
-3. Inicie a aplicação: npm start
+3. Inicie a aplicação: rodar tomcat server
 
 ## Imagem dos Diagramas
 
