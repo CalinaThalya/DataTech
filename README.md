@@ -3,10 +3,10 @@
 ## Integrantes do Grupo:
 
 - **Nome Completo:** Ana Paula Nascimento Silva- rm552513
-  - **Responsabilidade no Projeto:** [ Responsabilidade]
+  - **Responsabilidade no Projeto:**
 
 - **Nome Completo:** Calina Thalya Santana da Silva- rm552523
-  - **Responsabilidade no Projeto:** [Responsabilidade]
+  - **Responsabilidade no Projeto:** 
  
     - **Nome Completo:** Geovana Ribeiro Domingos Silva- rm99646
   - **Responsabilidade no Projeto:** [Responsabilidade]
@@ -23,11 +23,12 @@
 
 Para executar a aplicação, siga os passos abaixo:
 
-1. Clone este repositório: git clone https://github.com/CalinaThalya/DataTech.git
+Clone este repositório: git clone https://github.com/CalinaThalya/DataTech.git
 
-2. Instale as dependências: npm install
+Precisa primeiro ter o tomcat server v10.1
 
-3. Inicie a aplicação: rodar tomcat server
+Em seguida, precisa selecionar qual método vai querer, GET, SET, PUT, DELETE
+
 
 ## Imagem dos Diagramas
 
